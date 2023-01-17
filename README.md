@@ -1,2 +1,2 @@
-# This pj with Create React App with mini-ecommerce-cart-pj
+# This pj was Create React App with mini-ecommerce-cart-pj
 
